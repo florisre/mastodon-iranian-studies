@@ -24,7 +24,7 @@ account,name,link,keywords,language
 @pence@scholar.social,Charles Pence,https://scholar.social/@pence
 @petersuber@fediscience.org,Peter Suber,https://fediscience.org/@petersuber
 @jasongoroncy@scholar.social,Jason Goroncy,https://scholar.social/@jasongoroncy
-@syderen@mastodon.social, “Syderen”,https://mastodon.social/@syderen
+@syderen@mastodon.social,“Syderen”,https://mastodon.social/@syderen
 @mtriclot@aleph.land,Mathieu Triclot,https://aleph.land/@mtriclot
 @dfaria@masto.pt,Domingos Faria,https://masto.pt/@dfaria
 @le_rstelle@social.tchncs.de,Markus Hennig,https://social.tchncs.de/@le_rstelle
@@ -136,7 +136,7 @@ account,name,link,keywords,language
 @natoinet@libretooth.gr,Antoine Brunel,https://libretooth.gr/@natoinet
 @acluco@mstdn.social,Andres Luco,https://mstdn.social/@acluco
 @Neuromantic@sunbeam.city,William Sharkey,https://sunbeam.city/@Neuromantic
-@mattbarnardsays@hcommons.social,Matthew J. Barnard ,https://hcommons.social/@mattbarnardsays
+@mattbarnardsays@hcommons.social,Matthew J. Barnard,https://hcommons.social/@mattbarnardsays
 @jocelynmaclure@zirk.us,Jocelyn Maclure,https://zirk.us/@jocelynmaclure
 @zumhagenyekple@zirk.us,Zumhagen Yekplé,https://zirk.us/@zumhagenyekple
 @cdj@mas.to,Carolyn Dicey Jennings,https://mas.to/@cdj
@@ -199,8 +199,8 @@ account,name,link,keywords,language
 @chaospet@zirk.us,Ryan Lake,https://zirk.us/@chaospet
 @RyoaChung@fediscience.org,Ryoa Chung,https://fediscience.org/@RyoaChung
 @kinozhao@fediphilosophy.org,Kino Zhao,https://fediphilosophy.org/@kinozhao
-@ErrantCanadian@mstdn.ca,Trystan Goetze ,https://mstdn.ca/@ErrantCanadian
-@mimavox@mastodon.se,Andreas Chatzopoulos ,https://mastodon.se/@mimavox
+@ErrantCanadian@mstdn.ca,Trystan Goetze,https://mstdn.ca/@ErrantCanadian
+@mimavox@mastodon.se,Andreas Chatzopoulos,https://mastodon.se/@mimavox
 @TimChristiaens@zirk.us,Tim Christiaens,https://zirk.us/@TimChristiaens
 @TaoJiang@zirk.us,Tao Jiang,https://zirk.us/@TaoJiang
 @Philosophy_Mark@zirk.us,Mark Schroeder,https://zirk.us/@Philosophy_Mark
