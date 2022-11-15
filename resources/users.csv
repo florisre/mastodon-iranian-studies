@@ -24,7 +24,7 @@ account,name,link,keywords,language
 @pence@scholar.social,Charles Pence,https://scholar.social/@pence
 @petersuber@fediscience.org,Peter Suber,https://fediscience.org/@petersuber
 @jasongoroncy@scholar.social,Jason Goroncy,https://scholar.social/@jasongoroncy
-@syderen@mastodon.social, “Syderen”, https://mastodon.social/@syderen
+@syderen@mastodon.social, “Syderen”,https://mastodon.social/@syderen
 @mtriclot@aleph.land,Mathieu Triclot,https://aleph.land/@mtriclot
 @dfaria@masto.pt,Domingos Faria,https://masto.pt/@dfaria
 @le_rstelle@social.tchncs.de,Markus Hennig,https://social.tchncs.de/@le_rstelle
@@ -108,7 +108,7 @@ account,name,link,keywords,language
 @kegerton@mastodon.online,Karl Egerton,https://mastodon.online/@kegerton
 @manolomartinez@scholar.social,Manolo Martínez,https://scholar.social/@manolomartinez
 @binobiasutti@mas.to,Bino Biasutti,https://mas.to/@binobiasutti
-@a_brhm@zirk.us,Andreas Vrahimis,Andreas Vrahimis
+@a_brhm@zirk.us,Andreas Vrahimis,https://zirk.us/@a_brhm
 @sleepingcreep@livellosegreto.it,Federico Simonetti,https://livellosegreto.it/@sleepingcreep
 @juskhoo@mstdn.social,Justin Khoo,https://mstdn.social/@juskhoo
 @blackholeness@indieweb.social,Patyt Reyes,https://indieweb.social/@blackholeness
@@ -130,7 +130,7 @@ account,name,link,keywords,language
 @tommulherin@mastodon.social,Tom Mulherin,https://mastodon.social/@tommulherin
 @bonshui@mastodon.social,凡首位,https://mastodon.social/@bonshui
 @criticalinsert@mastodon.online,Shannon Edits,https://mastodon.online/@criticalinsert
-@pbradley@social.linux.pizza,Peter Bradley,@pbradley@social.linux.pizza
+@pbradley@social.linux.pizza,pbradley,https://social.linux.pizza/@pbradley
 @nengemaier@gruene.social,Norbert Engemaier,https://gruene.social/@nengemaier
 @DaniEhm@mas.to,Dani Ehm,https://mas.to/@DaniEhm
 @natoinet@libretooth.gr,Antoine Brunel,https://libretooth.gr/@natoinet
